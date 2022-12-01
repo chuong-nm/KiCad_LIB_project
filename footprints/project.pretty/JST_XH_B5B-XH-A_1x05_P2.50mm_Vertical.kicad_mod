@@ -1,6 +1,6 @@
 (footprint "JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62AD8F94)
+  (tedit 63880E73)
   (descr "JST XH series connector, B5B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator")
   (tags "connector JST XH vertical")
   (attr through_hole)
@@ -55,7 +55,7 @@
   (pad "3" thru_hole oval (at 0 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask) (tstamp 8ff931cf-ed80-415a-bfde-f1f5f2ad92ec))
   (pad "4" thru_hole oval (at 2.5 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask) (tstamp 59d6dc03-358a-4fad-bbd2-3d8c3823de3a))
   (pad "5" thru_hole oval (at 5 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask) (tstamp 690e71e7-b3f7-4ea5-ad6b-e8a4116527c9))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical.step"
     (offset (xyz -5 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
