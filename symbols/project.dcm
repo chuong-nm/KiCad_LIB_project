@@ -1,0 +1,226 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2481AS-Type-II
+D LED 7-Segment Display
+F http://www.xlitx.com/datasheet/2481AS.pdf
+$ENDCMP
+#
+$CMP 24LC256-I_SN
+D 256K,32K X 8,2.5V Serial EE,SOIC-8
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001203U.pdf
+$ENDCMP
+#
+$CMP 74HC595D
+D SOP-16 Registers ROHS
+K 74HC595
+F https://datasheet.lcsc.com/lcsc/2011031004_HTC-Korea-TAEJIN-Tech-74HC595D_C481686.pdf
+$ENDCMP
+#
+$CMP AMS1117
+D 1A LOW DROPOUT VOLTAGE REGULATOR, SOT-223
+F http://www.advanced-monolithic.com/pdf/ds1117.pdf
+$ENDCMP
+#
+$CMP B5819W
+D 40V 1A 600mV @ 1A SOD-123 Schottky Barrier Diodes (SBD)
+F https://datasheet.lcsc.com/szlcsc/Changjiang-Electronics-Tech-CJ-B5819W_C8598.pdf
+$ENDCMP
+#
+$CMP BC817
+D General Purpose NPN Transistor
+$ENDCMP
+#
+$CMP C0402
+D 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+F https://datasheet.lcsc.com/lcsc/1809301915_Vishay-Intertech-VJ0402G104KXQCW1BC_C169292.pdf
+$ENDCMP
+#
+$CMP C0603
+D 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+F https://datasheet.lcsc.com/lcsc/1810311110_Murata-Electronics-GRM188B30J226MEA0D_C15500.pdf
+$ENDCMP
+#
+$CMP C0805
+D 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+F https://datasheet.lcsc.com/lcsc/1810201220_Murata-Electronics-GRM21BR61E225KA12L_C77076.pdf
+$ENDCMP
+#
+$CMP C1206
+D 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+F https://datasheet.lcsc.com/lcsc/1810241220_YAGEO-CC1206JRNPO9BN151_C107180.pdf
+$ENDCMP
+#
+$CMP C1210
+D 1210 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+F https://datasheet.lcsc.com/lcsc/1912111437_TDK-CGA6P1X7R1C226MTJY0S_C432951.pdf
+$ENDCMP
+#
+$CMP CC2530F256RHAR
+D Second Generation System-on-Chip Solution for 2.4 GHz IEEE 802.15.4 / RF4CE / ZigBee
+F http://www.ti.com/lit/gpn/cc2530
+$ENDCMP
+#
+$CMP CC2530F64RHAR
+D RF System on a Chip - SoC IC RF ZigBee 802.15.4 SoC 2.4Ghz
+F http://www.ti.com/lit/ds/symlink/cc2530-rf4ce.pdf
+$ENDCMP
+#
+$CMP CP1206
+D 1206 Tantalum Capacitors
+K 3216 Tantalum Capacitors
+F https://datasheet.lcsc.com/lcsc/1811071214_AVX-TAJA105K016RNJ_C7174.pdf
+$ENDCMP
+#
+$CMP CRYSTAL-3215
+D SMD Crystal Resonator 9pF 70kΩ ±20ppm -40℃~+85℃ SMD3215-2P Crystals ROHS
+F https://datasheet.lcsc.com/lcsc/1810181110_Seiko-Epson-Q13FC1350000300_C99010.pdf
+$ENDCMP
+#
+$CMP CRYSTAL-3225
+D SMD Crystal Resonator 12pF 40Ω ±10ppm -40℃~+85℃ SMD3225-4P Crystals ROHS
+F https://datasheet.lcsc.com/lcsc/1808280519_Seiko-Epson-X1E000021016900_C255932.pdf
+$ENDCMP
+#
+$CMP Conn_02x04_Odd_Even_SMD
+D Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP ESP32-D0WD-V3
+D IC RF TXRX+MCU BLUETOOTH WIFIQFN-48 RF Transceiver ICs ROHS
+F https://componentsearchengine.com/Datasheets/1/ESP32-D0WDQ6-V3.pdf
+$ENDCMP
+#
+$CMP ESP32-D0WDQ6-V3
+D IC RF TXRX+MCU BLUETOOTH WIFI
+F https://componentsearchengine.com/Datasheets/1/ESP32-D0WDQ6-V3.pdf
+$ENDCMP
+#
+$CMP GD25Q32CSIG
+D NOR FLASH
+F https://componentsearchengine.com/Datasheets/1/GD25Q32CSIG.pdf
+$ENDCMP
+#
+$CMP HLK-5M05
+D 5W ultra-compact power module HLK-5M05
+F http://www.hlktech.net/product_detail.php?ProId=60
+$ENDCMP
+#
+$CMP L0402
+D 0402 Inductors (SMD) ROHS0402 Inductors (SMD) ROHS0402 Inductors (SMD) ROHS
+F https://datasheet.lcsc.com/lcsc/1811141620_Chilisin-Elec-CS0402-18NG-S_C142192.pdf
+$ENDCMP
+#
+$CMP L0603
+D 0603 Inductors (SMD) ROHS
+F https://datasheet.lcsc.com/lcsc/1810301826_Chilisin-Elec-LS0603-R10J-N_C285884.pdf
+$ENDCMP
+#
+$CMP L0805
+D 0805 Inductors (SMD) ROHS
+F https://datasheet.lcsc.com/lcsc/1912111437_Chilisin-Elec-CS0805-12NJ-S_C373727.pdf
+$ENDCMP
+#
+$CMP L1206
+D 1206 Inductors (SMD) ROHS
+F https://datasheet.lcsc.com/lcsc/2011271435_Yanchuang-SCMI321609U2R7KT_C479920.pdf
+$ENDCMP
+#
+$CMP L1210
+D 1210 Inductors (SMD) ROHS
+F https://datasheet.lcsc.com/lcsc/1811121309_TDK-NLV32T-012J-EF_C295171.pdf
+$ENDCMP
+#
+$CMP LY68L6400SLIT
+D AM SRAM 64Mb (8M x 8) SPI/ QPI SOP-8_150mil RoHS
+F https://datasheet.lcsc.com/szlcsc/Lyontek-Inc-LY68L6400SLIT_C261881.pdf
+$ENDCMP
+#
+$CMP PCF8563TS_5
+D NXP - PCF8563TS/5,118 - REAL TIME CLOCK, 5.5V, I2C, TSSOP-8
+F http://www.nxp.com/docs/en/data-sheet/PCF8563.pdf
+$ENDCMP
+#
+$CMP R0402
+D 0402 Chip Resistor - Surface Mount ROHS
+F https://datasheet.lcsc.com/lcsc/2110260730_UNI-ROYAL-Uniroyal-Elec-0402WGJ068JTCE_C270402.pdf
+$ENDCMP
+#
+$CMP R0603
+D 0603 Chip Resistor - Surface Mount ROHS
+F https://datasheet.lcsc.com/lcsc/2010201809_YAGEO-RT0603DRE07180RL_C706032.pdf
+$ENDCMP
+#
+$CMP R0805
+D 0805 Chip Resistor - Surface Mount ROHS
+F https://datasheet.lcsc.com/lcsc/1809190908_LIZ-Elec-CR0805J80564G_C102033.pdf
+$ENDCMP
+#
+$CMP R1206
+D 1206 Chip Resistor - Surface Mount ROHS
+F https://datasheet.lcsc.com/lcsc/1810170231_LIZ-Elec-CR1206J40206G_C102306.pdf
+$ENDCMP
+#
+$CMP R1210
+D 1210 Chip Resistor - Surface Mount ROHS
+F https://datasheet.lcsc.com/lcsc/1810170223_LIZ-Elec-CR1210J30121G_C102409.pdf
+$ENDCMP
+#
+$CMP RA-01
+D frequency band 410MHz~525MHz
+F https://docs.ai-thinker.com/en/lora/man
+$ENDCMP
+#
+$CMP SH1106
+D LCD OLED 1.3inch 3.3V
+K OLED
+F https://www.waveshare.com/w/upload/e/e3/1.3inch-SH1106-OLED.pdf
+$ENDCMP
+#
+$CMP SI2301
+D MOSFETP -20V -2.8A
+F https://mouser.componentsearchengine.com/Datasheets/1/SI2301.pdf
+$ENDCMP
+#
+$CMP SI2302
+D MOSFETN -20V -2.8A
+F https://mouser.componentsearchengine.com/Datasheets/1/SI2302.pdf
+$ENDCMP
+#
+$CMP SL3904
+D 40V 225mW 200mA 100@10mA,1V +150℃@(Tj) 300MHz 400mV@50mA,5mA NPN SOT-23 Bipolar Transistors - BJT ROHS
+F https://datasheet.lcsc.com/lcsc/1912111437_Slkor-SLKORMICRO-Elec--SL3904_C337068.pdf
+$ENDCMP
+#
+$CMP SL3906
+D 40V 225mW 200mA 100@10mA,1V +150℃@(Tj) 300MHz 400mV@50mA,5mA PNP SOT-23 Bipolar Transistors - BJT ROHS
+F https://datasheet.lcsc.com/lcsc/1912111437_Slkor-SLKORMICRO-Elec--SL3906_C337069.pdf
+$ENDCMP
+#
+$CMP SLA-05VDC-SL-A
+D Relays General Purpose Non Latching 5VDC SPDT 30A (250VAC) Max Plugin RoHS
+F https://datasheet.lcsc.com/szlcsc/Ningbo-Songle-Relay-SLA-05VDC-SL-C_C87367.pdf
+$ENDCMP
+#
+$CMP SLA-05VDC-SL-C
+D Relays General Purpose Non Latching 5VDC SPDT 30A (250VAC) Max Plugin RoHS
+F https://datasheet.lcsc.com/szlcsc/Ningbo-Songle-Relay-SLA-05VDC-SL-C_C87367.pdf
+$ENDCMP
+#
+$CMP TD301D485
+D Single RS485 isolation transceiver module
+F https://datasheet.lcsc.com/lcsc/1809291522_MORNSUN-Guangzhou-S--T-TD301D485H_C183992.pdf
+$ENDCMP
+#
+$CMP TLP187
+D SO-4 Optocouplers - Phototransistor Output ROHS
+F https://datasheet.lcsc.com/lcsc/1912111437_TOSHIBA-TLP187-TPL-E-T_C393886.pdf
+$ENDCMP
+#
+$CMP X5-90XSMDT
+D 90V ±20% 5kA 1pF 2 SMD,5x4.2mm Gas Discharge Tube (GDT) ROHS
+F https://datasheet.lcsc.com/lcsc/2005301232_SURGING-X5-90XSMDT_C527160.pdf
+$ENDCMP
+#
+#End Doc Library
