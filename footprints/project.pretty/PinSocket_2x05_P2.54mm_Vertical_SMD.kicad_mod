@@ -1,6 +1,6 @@
-(footprint "PinHeader_2x05_P2.54mm_Female_Vertical_SMD" (version 20211014) (generator pcbnew)
+(footprint "PinSocket_2x05_P2.54mm_Vertical_SMD" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 629C5CDF)
+  (tedit 63B67C34)
   (descr "surface-mounted straight pin header, 2x05, 2.54mm pitch, double rows")
   (tags "Surface mounted pin header SMD 2x05 2.54mm double row")
   (attr smd)

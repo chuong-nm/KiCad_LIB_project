@@ -1,6 +1,6 @@
 (footprint "CR1220HSMD" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 634E3366)
+  (tedit 63BBD8C8)
   (descr "CR1220-H-SMD-3")
   (tags "Battery Housing")
   (attr smd)
@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.2)))
     (tstamp d5c0d9ae-6e93-4507-adc1-889b115989d7)
   )
-  (fp_text value "CR1220_SMD" (at -0.655 0) (layer "F.SilkS") hide
+  (fp_text value "CR1220_SMD" (at 1.85 2.15) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.2)))
     (tstamp a1c1e195-e11a-4353-bc3a-6ca6bd922a82)
   )
@@ -24,8 +24,8 @@
   (fp_line (start 9.5 -2.2) (end 8.1 -2.2) (layer "F.SilkS") (width 0.2) (tstamp cc508495-f8ae-452c-913c-83aef60d2608))
   (fp_line (start 7.5 7) (end 7.5 1.6) (layer "F.SilkS") (width 0.2) (tstamp d8e39f72-e57b-4d78-a957-fdd965adbc0c))
   (fp_line (start 7.5 -7) (end 4.5 -7) (layer "F.SilkS") (width 0.2) (tstamp f05675e9-1e48-45f9-89df-fa9994466bd6))
-  (fp_arc (start -7.4 -1.4) (mid -0.221566 -7.466256) (end 7.2 -1.7) (layer "F.SilkS") (width 0.2) (tstamp 295c59fb-fb20-462f-a502-6f87c0aadbb3))
-  (fp_arc (start 7.2 1.6) (mid -0.182792 7.543878) (end -7.4 1.4) (layer "F.SilkS") (width 0.2) (tstamp 7cb96ca2-4f82-4953-9d8e-f25231571cc4))
+  (fp_arc (start -7.4 -1.4) (mid -0.221567 -7.466256) (end 7.2 -1.7) (layer "F.SilkS") (width 0.2) (tstamp 295c59fb-fb20-462f-a502-6f87c0aadbb3))
+  (fp_arc (start 7.2 1.6) (mid -0.182793 7.543878) (end -7.4 1.4) (layer "F.SilkS") (width 0.2) (tstamp 7cb96ca2-4f82-4953-9d8e-f25231571cc4))
   (fp_line (start 8.4 -1.8) (end 10.1 -1.8) (layer "F.CrtYd") (width 0.1) (tstamp 3fc39c60-09c1-40ca-b1ae-24a6aa4df662))
   (fp_line (start 8.4 1.8) (end 10.1 1.8) (layer "F.CrtYd") (width 0.1) (tstamp 4cc4a875-9c6b-44c5-bd9b-585ac29782e3))
   (fp_line (start 8.4 1.8) (end 8.4 7.6) (layer "F.CrtYd") (width 0.1) (tstamp 50b40829-9233-4fa7-b963-02170c9ba66f))
@@ -36,8 +36,8 @@
   (fp_line (start 10.1 -1.8) (end 10.1 1.8) (layer "F.CrtYd") (width 0.1) (tstamp c9a4d314-2811-42f1-87bf-f40e9440588b))
   (fp_line (start 7.39 0) (end 7.39 0) (layer "F.Fab") (width 0.2) (tstamp f37db628-3466-4dc5-811b-42998de930b1))
   (fp_line (start -7.39 0) (end -7.39 0) (layer "F.Fab") (width 0.2) (tstamp f9a82f1e-fa5b-48b6-9ab5-fe1645bac93a))
-  (pad "" np_thru_hole circle (at -4 0) (size 0.9 0.9) (drill 0.9) (layers F&B.Cu *.Mask) (tstamp 5f201cf8-33c5-4146-ba30-67c8556cfc66))
-  (pad "" np_thru_hole circle (at 3.5 0) (size 1.16 1.16) (drill 1.16) (layers F&B.Cu *.Mask) (tstamp 8fe273fe-f3e4-471a-9380-a82802225fcc))
+  (pad "" np_thru_hole circle (at -3.5 0) (size 0.9 0.9) (drill 0.9) (layers F&B.Cu *.Mask) (tstamp 5f201cf8-33c5-4146-ba30-67c8556cfc66))
+  (pad "" np_thru_hole circle (at 4 0) (size 1.16 1.16) (drill 1.16) (layers F&B.Cu *.Mask) (tstamp 8fe273fe-f3e4-471a-9380-a82802225fcc))
   (pad "1" smd rect (at 8.25 0 90) (size 2.2 3.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 03d71956-e0db-4d6f-a9b8-6cd8387260d9))
   (pad "2" smd rect (at -8.1 0 90) (size 2.2 3.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f116480d-20d4-43f1-8cd4-1e53ef5b6de3))
   (model "/Users/trandangkhoi/Library/CloudStorage/OneDrive-Personal/solarBK/RD/KiCAD_LIB_project/3dmodels/CR1220_SMD.STEP"

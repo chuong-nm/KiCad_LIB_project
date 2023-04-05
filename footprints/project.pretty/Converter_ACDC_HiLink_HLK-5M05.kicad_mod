@@ -1,14 +1,14 @@
-(footprint "HLK5M05" (version 20211014) (generator pcbnew)
+(footprint "Converter_ACDC_HiLink_HLK-5M05" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 628C87BD)
+  (tedit 638EBE30)
   (descr "HLK-5M05")
   (tags "Power Supply")
   (attr through_hole)
-  (fp_text reference "PS**" (at -0.3 0) (layer "F.SilkS")
+  (fp_text reference "REF**" (at -0.3 0) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.2)))
     (tstamp 46fe3d2d-d39e-4e73-8934-5563ad98d56e)
   )
-  (fp_text value "HLK5M05" (at -0.3 0) (layer "F.SilkS") hide
+  (fp_text value "Converter_ACDC_HiLink_HLK-5M05" (at -0.3 0) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.2)))
     (tstamp 5bcceec7-7bae-477e-adc0-bb4ca2ef4e49)
   )

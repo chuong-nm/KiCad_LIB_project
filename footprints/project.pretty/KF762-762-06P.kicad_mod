@@ -1,6 +1,6 @@
 (footprint "KF762-762-06P" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62958902)
+  (tedit 63B78A04)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -4.5) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.2)))
